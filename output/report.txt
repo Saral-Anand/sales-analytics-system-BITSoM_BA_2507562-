@@ -1,5 +1,5 @@
 SALES ANALYTICS REPORT
-========================================
+
 
 OVERALL SUMMARY
 Total Valid Transactions: 71
