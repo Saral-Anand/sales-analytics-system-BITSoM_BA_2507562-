@@ -1,22 +1,22 @@
-\# Sales Analytics System
+ Sales Analytics System
 
 
 
-\## How to Run
+ How to Run
 
-1\. Install Python 3.11+
+1. Install Python 3.11+
 
-2\. Install dependencies:
+2. Install dependencies:
 
 &nbsp;  pip install -r requirements.txt
 
-3\. Run the application:
+3. Run the application:
 
 &nbsp;  python main.py
 
 
 
-\## Features
+ Features
 
 \- File handling with encoding support
 
